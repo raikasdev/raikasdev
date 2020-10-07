@@ -12,9 +12,9 @@ It's a simple licensing system, originally made for paid Minecraft-plugins. Yes,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)
 
 ### Contact:
-**[Discord:](https://discord.com)** Raikas#0178 (ID: *250662753541423115*)\
-**[MC-Market:](https://www.mc-market.org/members/157660/)** Raikasta\
-**E-Mail:** roni@raikas.xyz\
+**discord.com** Raikas#0178 (ID: *250662753541423115*)\
+**mc-market.org** Raikasta\
+**E-Mail:** roni@raikas.xyz
 
 #### Some of my projects:
 [![rLicense][rlicenseLogo]](https://npmjs.com/package/rlicense)\
