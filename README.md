@@ -12,8 +12,8 @@ It's a simple licensing system, originally made for paid Minecraft-plugins. Yes,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)
 
 ### Contact:
-**discord.com** Raikas#0178 (ID: *250662753541423115*)\
-**mc-market.org** Raikasta\
+**discord.com:** Raikas#0178 (ID: *250662753541423115*)\
+**mc-market.org:** Raikasta\
 **E-Mail:** roni@raikas.xyz
 
 #### Some of my projects:
