@@ -1,16 +1,16 @@
-### Hi there 👋
+[rlicenseLogo]: https://nodei.co/npm/rlicense.png "rLicense"
+# Hello!
+## You have found your way to my Github profile, somehow.
+### So, let me introduce myself!
 
-<!--
-**raikasdev/raikasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finnish teen that loves to code things.
+I have experience with multiple coding languages, including Java, JS/Node and Python.
+I have published one package to npmjs, [rlicense](https://npmjs.com/package/rlicense). 
+It's a simple licensing system, originally made for paid Minecraft-plugins. Yes, people make those too.
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some of my projects:
+[![rLicense][rlicenseLogo]](https://npmjs.com/package/rlicense)\
+[![rLicense Github](https://github-readme-stats.vercel.app/api/pin/?username=raikasdev&repo=rlicense)](https://github.com/raikasdev/rlicense)
