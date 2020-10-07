@@ -8,7 +8,7 @@ I have experience with multiple coding languages, including Java, JS/Node and Py
 I have published one package to npmjs, [rlicense](https://npmjs.com/package/rlicense). 
 It's a simple licensing system, originally made for paid Minecraft-plugins. Yes, people make those too.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)
 
 #### Some of my projects:
