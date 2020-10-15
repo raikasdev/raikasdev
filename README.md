@@ -2,12 +2,12 @@
 # Hello fellow coders!
 ## You have found your way to my Github profile, somehow.
 
-* Finnish teen that loves to code things.\
-* I have experience with multiple coding languages, including Java, JS/Node and Python.\
-* I have published one package to npmjs, [rlicense](https://npmjs.com/package/rlicense).\ 
+* Finnish teen that loves to code things.
+* I have experience with multiple coding languages, including Java, JS/Node and Python.
+* I have published one package to npmjs, [rlicense](https://npmjs.com/package/rlicense).
 * Primarily coding with nodeJS
 
-I am currently actively working on [Ritta](https://github.com/rittaschool).\
+I am currently actively working on [Ritta](https://github.com/rittaschool).
 <details>
 <summary>My Github Stats</summary>
 
