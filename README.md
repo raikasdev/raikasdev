@@ -5,7 +5,7 @@
 * Finnish teen that loves to code things.
 * I have experience with multiple coding languages, including Java, JS/Node and Python.
 * I have published one package to npmjs, [rlicense](https://npmjs.com/package/rlicense).
-* Primarily coding with nodeJS
+* Primarily coding with nodeJS and Typescript
 
 I am currently actively working on [Ritta](https://github.com/rittaschool).
 <details>
