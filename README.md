@@ -12,7 +12,8 @@ I am currently actively working on [Ritta](https://github.com/rittaschool).
 <summary>My Github Stats</summary>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)\
+![raikasta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raikasta)
 
 </details>
 
