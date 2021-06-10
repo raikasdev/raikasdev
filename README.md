@@ -4,7 +4,6 @@
 # Hello fellow coders!
 ## You have found your way to my Github profile, somehow.
 
-* Finnish teen that loves to code things.
 * Free and open source developer.
 * Mainly working on [Ritta](https://github.com/rittaschool).
 * Experience with Java, Node, GDScript and C#, but primarily code with Node and Typescript.
