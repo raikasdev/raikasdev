@@ -5,9 +5,10 @@
 ## You have found your way to my Github profile, somehow.
 
 * Finnish teen that loves to code things.
-* I have experience with multiple coding languages, including Java, JS/Node and Python, but primarily code with Node and Typescript.
+* Free and open source developer.
+* Mainly working on [Ritta](https://github.com/rittaschool).
+* Experience with Java, Node, GDScript and C#, but primarily code with Node and Typescript.
 
-I am currently actively working on [Ritta](https://github.com/rittaschool).
 <details>
 <summary>My Github Stats</summary>
 
