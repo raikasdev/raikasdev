@@ -1,17 +1,17 @@
-[foxx]: https://media2.giphy.com/media/TdMVH60kJvTMI/giphy.gif "foxxx"
+<!-- (C) ∷𝙹リ╎ ᔑ╎ꖌᔑᓭ -->
+![coding gif](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+<!-- ∴ᒷꖎᓵ𝙹ᒲᒷ ℸ ̣ 𝙹 ᒲ|| ⊣╎ℸ ̣ ⍑⚍ʖ !¡∷𝙹⎓╎ꖎᒷ -->
 
-![foxx][foxx]
-# Hello fellow coders!
-## You have found your way to my Github profile, somehow.
+# Hello and welcome! 👋
+[![](https://img.shields.io/badge/Discord-Raikas%230178-blue?style=flat-square&logo=discord)](https://discord.gg/H8RJDmmb3R)
+[![](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=flat-square&logo=twitter)](https://twitter.com/raikasdev)
 
-* FOSS developer.
-* Mainly working on [Ritta](https://github.com/rittaschool).
-* Experience with Java, Node, GDScript and C#, but primarily code with Node and Typescript.
+**Hello! I am Roni Äikäs, a 13-year old software developer from Central Finland!** \
+I mostly use Node.js and TypeScript. I also have experience with Java, Python, Flutter and C#. I love backend and server work. \
+Web technologies I love are [WordPress](https://wordpress.org), [Ne**s**tJS](https://nestjs.com), [Ne**x**tJS](https://nextjs.com) and [MongoDB](https://mongodb.com). \
+I'm also interested in hacking / security researching, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi) and participated in [1337UP1121](https://1337)
+If you want to see projects that I'm most proud of check my pinned repos below! \
+There's also some projects I have done under the [Testausserveri](https://github.com/Testausserveri) organization.
 
-<details>
-<summary>My Github Stats</summary>
-
+## Stats 📈
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)\
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikasdev&theme=radical)\
-![raikasta's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raikasta)
-</details>
