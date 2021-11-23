@@ -9,7 +9,7 @@
 **Hello! I am Roni Äikäs, a 13-year old software developer from Central Finland!** \
 I mostly use Node.js and TypeScript. I also have experience with Java, Python, Flutter and C#. I love backend and server work. \
 Web technologies I love are [WordPress](https://wordpress.org), [Ne**s**tJS](https://nestjs.com), [Ne**x**tJS](https://nextjs.com) and [MongoDB](https://mongodb.com). \
-I'm also interested in hacking / security researching, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi) and participated in [1337UP1121](https://1337.intigriti.io) event by Visma! \
+I'm also interested in hacking / security researching, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi) and participated in [1337UP1121](https://1337.intigriti.io) event by Visma!
 
 **If you want to see projects that I'm most proud of check my pinned repos below!** \
 There's also some projects I have done under the [Testausserveri](https://github.com/Testausserveri) organization.
