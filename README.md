@@ -15,4 +15,4 @@ I'm also interested in hacking / security researching, and have gotten #3 place 
 There's also some projects I have done under the [Testausserveri](https://github.com/Testausserveri) organization.
 
 ## Stats 📈
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)\
+![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)
