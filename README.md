@@ -14,6 +14,8 @@ I'm also interested in hacking / security researching, and have gotten #3 place 
 **If you want to see projects that I'm most proud of check my pinned repos below!** \
 There's also some projects I have done under the [Testausserveri](https://github.com/Testausserveri) organization.
 
-## Stats 📈
-![Github Stats](https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical)
+<details>
+<summary>Stats 📈</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical">
 <a href="https://app.daily.dev/raikasdev"><img src="https://api.daily.dev/devcards/f77e6851e79643f18f34f600bb1ea911.png?r=3t8" width="400" alt="Roni Äikäs's Dev Card"/></a>
+</details>
