@@ -14,7 +14,7 @@ I'm also interested in hacking / security researching, and have gotten #3 place 
 **If you want to see projects that I'm most proud of check my pinned repos below!** \
 There's also some projects I have done under the [Testausserveri](https://github.com/Testausserveri) organization.
 
-<img src="https://media.discordapp.net/attachments/937309213036785744/993469331730075718/Untitled1.jpg" height=64> i am a very big brain novu contributor :thumbsup:
+<a href="https://novu.co/contributors/raikasdev/"><img src="https://contributors.novu.co/profiles/raikasdev-small.jpg" height="170" width="450" alt="" /></a>
 <details>
 <summary>Stats 📈</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical">
