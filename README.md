@@ -6,6 +6,10 @@
 [![](https://img.shields.io/badge/Discord-Raikas%230178-blue?style=flat-square&logo=discord)](https://discord.gg/H8RJDmmb3R)
 [![](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=flat-square&logo=twitter)](https://twitter.com/raikasdev)
 
+> 🔍 **Looking for work!** I'm looking for a summer job (5 weeks) remotely or in Jyväskylä or Tampere (preferrerably near the train station!).
+> **I am also free to work as a freelancer/contractor! (remotely)**\
+> [Contact me! (roni@mikroni.fi)](mailto:roni@mikroni.fi) 
+
 **Hello! I am Roni Äikäs, a software developer from Central Finland!** \
 I mostly use Node.js and TypeScript. I also have experience with Java, Python, Flutter and C#. I recently have done bit more frontend work with React, but I still do lots of backend stuff! \
 Some technologies I love are [Remix](https://remix.run/), [Ne**s**tJS](https://nestjs.com), [Ne**x**tJS](https://nextjs.com) and [MongoDB](https://mongodb.com). \
