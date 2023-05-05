@@ -6,9 +6,9 @@
 [![](https://img.shields.io/badge/Discord-Raikas%230178-blue?style=flat-square&logo=discord)](https://discord.gg/H8RJDmmb3R)
 [![](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=flat-square&logo=twitter)](https://twitter.com/raikasdev)
 
-**Hello! I am Roni Äikäs, a software developer from Central Finland!** \
-I mostly use Node.js, React and TypeScript. I also have experience with Java, Python, Flutter and C#. I recently have done bit more frontend work with React, but I still do lots of backend stuff! \
-Some technologies I love are [Remix](https://remix.run/), [Ne**s**tJS](https://nestjs.com), [Ne**x**tJS](https://nextjs.com) and [MongoDB](https://mongodb.com). \
+**Hello! I am Roni Äikäs, a 14-year-old software developer from Central Finland!** \
+I mostly use Node.js (also keeping an eye on [bun.sh](https://bun.sh), React and TypeScript. I also have experience with Java, Python, Flutter and C#. \
+Currently I'm doing stuff with WordPress and Gutenberg (React with TailwindCSS). \
 I have also done some security researching stuff in the past, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi) and participated in [1337UP1121](https://1337.intigriti.io) event by Visma!
 
 **If you want to see projects that I'm most proud of check my pinned repos below!** \
