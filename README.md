@@ -3,6 +3,7 @@
 <!-- ∴ᒷꖎᓵ𝙹ᒲᒷ ℸ ̣ 𝙹 ᒲ|| ⊣╎ℸ ̣ ⍑⚍ʖ !¡∷𝙹⎓╎ꖎᒷ -->
 
 # Hello and welcome! 👋
+<a rel="me" href="https://mementomori.social/@raikas"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
 [![](https://img.shields.io/badge/Discord-Raikas%230178-blue?style=flat-square&logo=discord)](https://discord.gg/H8RJDmmb3R)
 [![](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=flat-square&logo=twitter)](https://twitter.com/raikasdev)
 
