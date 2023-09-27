@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/raikasdev)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/raikasdev)
 
-**Hello! I am Roni Äikäs, a 14-year-old full-stack web developer and entrepreneur from Central Finland!** \
+**Hello! I am Roni Äikäs, a 15-year-old full-stack web developer and entrepreneur from Central Finland!** \
 I'm currently orintented more towards front-end development, using tools like WordPress, React, TypeScript and Vite to create awesome websites and web applications.
 I also have experience with Java and Python.
 
