@@ -21,7 +21,7 @@ I also have experience with Java and Python.
 ## Projects I've worked on
 Most of these have their repositories pinned, check below!
 
-- [Mastopoet](https://mastopoet.raikas.dev) (~70 Github Stars 🌟) - Screenshot tool for [Mastodon](https://joinmastodon.org) that allows you to create beautiful and clean screenshots with customizable look
+- [Mastopoet](https://mastopoet.raikas.dev) (~80 Github Stars 🌟) - Screenshot tool for [Mastodon](https://joinmastodon.org) that allows you to create beautiful and clean screenshots with customizable look
 - [Tusked](https://tusked.app) - Upcoming modern and customizable Mastodon web client (+ PWA) built on top of Preact, SCSS, Vite and Masto.js.
 - [Novu](https://novu.co) - The open-source notification infrastructure for developers. Worked as an contractor and developed integrations to push notification services (APNS, FCM) and webhooks. 
 - [Mastodon4 Redirect](https://github.com/raikasdev/mastodon4-redirect) - Browser extension that redirects users to their home instance.
