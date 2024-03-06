@@ -13,11 +13,6 @@
 I'm currently orintented more towards front-end development, using tools like WordPress, React, TypeScript and Vite to create awesome websites and web applications.
 I also have experience with Java and Python.
 
-## I'm open for freelance work!
-**I develop websites using WordPress and custom-made Gutenberg blocks**, instead of using bloated ready-made themes like Astra and page editors like Elementor. They're developed using React for the dashboard to make editing your website super easy, and then compiled into HTML to be served to your visitors, keeping your website super fast. If you're interested or want to learn more, send me an email at [roni@mikroni.fi](mailto:roni@mikroni.fi), and let's get to work!
-
-**I have also lot's of experience with frontend development with React and backend development with Node (mostly Express, NestJS and Fastify)**. So, if you need a helping hand with those, I'm open for work in those kind of projects too!
-
 ## Projects I've worked on
 Most of these have their repositories pinned, check below!
 
