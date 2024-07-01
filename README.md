@@ -24,5 +24,4 @@ Most of these have their repositories pinned, check below!
 
 I have also done some security researching stuff in the past, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi).
 
-<a href="https://novu.co/contributors/raikasdev/"><img src="https://contributors.novu.co/profiles/raikasdev-small.jpg" height="170" width="450" alt="" /></a>
 <img src="https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical">
