@@ -21,7 +21,7 @@ Most of these have their repositories pinned, check below!
 - [Novu](https://novu.co) - The open-source notification infrastructure for developers. Worked as an contractor and developed integrations to push notification services (APNS, FCM) and webhooks. 
 - [Mastodon4 Redirect](https://github.com/raikasdev/mastodon4-redirect) - Browser extension that redirects users to their home instance.
 - [Ritta](https://github.com/rittaschool) - Open source student information system project, which was abandoned due to prolonged development caused by "must be best" and bleeding edge tech stack slowing development down.
-
+- and a lot more listed on my website most notable on [the English page](https://raikas.dev/in-english) and most on the Finnish ["Projektit"](https://raikas.dev/projektit) page.
 I have also done some security researching stuff in the past, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi).
 
 <img src="https://github-readme-stats.vercel.app/api?username=raikasdev&hide_title=true&show_icons=true&theme=radical">
