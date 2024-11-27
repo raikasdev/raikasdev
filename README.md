@@ -6,7 +6,7 @@
 <a rel="me" href="https://mementomori.social/@raikas"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
 [![Linkedin /in/roni-aikas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roni-aikas/)
 [![Discord @raikas](https://img.shields.io/badge/Discord-@raikas-blue?style=for-the-badge&logo=discord)](https://discord.gg/H8RJDmmb3R)
-[![Twitter](https://img.shields.io/badge/Twitter-raikasdev-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/raikasdev)
+[![Twitter](https://img.shields.io/badge/Twitter-AikasRoni-lightblue?style=for-the-badge&logo=twitter)](https://twitter.com/AikasRoni)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/raikasdev)
 
 **Hello! I am Roni Äikäs, a 16-year-old full-stack web developer and entrepreneur from Central Finland!** \
