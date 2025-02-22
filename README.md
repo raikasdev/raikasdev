@@ -17,10 +17,11 @@ I also have experience with Java and Python.
 Most of these have their repositories pinned, check below!
 
 - [Mastopoet](https://mastopoet.raikas.dev) (~80 Github Stars 🌟) - Screenshot tool for [Mastodon](https://joinmastodon.org) that allows you to create beautiful and clean screenshots with customizable look
+- [Kalkki](https://github.com/raikasdev/kalkki) - Fast and modern scientific calculator for the web (alternative to SpeedCrunch)
 - [HowAreYa?](https://checkin.raikas.dev) - Natural automatic scheduling app for the [Cal.com Check-In Challenge](https://github.com/calcom/cal.com/issues/14676)
 - [Novu](https://novu.co) - The open-source notification infrastructure for developers. Worked as an contractor and developed integrations to push notification services (APNS, FCM) and webhooks. 
 - [Mastodon4 Redirect](https://github.com/raikasdev/mastodon4-redirect) - Browser extension that redirects users to their home instance.
-- [Ritta](https://github.com/rittaschool) - Open source student information system project, which was abandoned due to prolonged development caused by "must be best" and bleeding edge tech stack slowing development down.
+- [Ritta](https://github.com/rittaschool) - Open source student information system project, which was abandoned due to prolonged development caused by "must be best" and bleeding edge tech stack slowing development down. Was a important learning lesson and taught me a lot about project management and software design. and how it can go wrong.
 - and a lot more listed on my website most notable on [the English page](https://raikas.dev/in-english) and most on the Finnish ["Projektit"](https://raikas.dev/projektit) page.
 I have also done some security researching stuff in the past, and have gotten #3 place on [challenge.fi season 1](https://challenge.fi).
 
